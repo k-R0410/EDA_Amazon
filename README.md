@@ -138,12 +138,12 @@ This analysis demonstrates how exploratory data analysis can be used to understa
 Amazon-EDA/
 │
 ├── amazon.csv
-├── Amazon_EDA.ipynb
+├── eda_amazon.py
 ├── README.md
 ├── images/
 │   ├── rating_distribution.png
 │   ├── correlation_heatmap.png
-│   ├── discount_distribution.png
+│   ├── Discount Percentage Distribution.png
 │   └── price_boxplot.png
 ```
 
